@@ -1,0 +1,149 @@
+{
+    "product_groups": [{
+            "group_id": 1,
+            "group_title": "ساندویچ",
+            "group_image": "images/burger-7-310x260.png",
+            "group_products": [{
+                    "product_id": 1,
+                    "product_name": "ژامبون مرغ تنوری",
+                    "product_price": [{ "normal": 95000 }],
+                    "product_image": ["a1.jpg", "a2.jpg", "a3.jpg"],
+                    "product_content": [
+                        "ژامبون مرغ",
+                        "قارچ",
+                        "پنیر",
+                        "سس مخصوص"
+                    ],
+                    "Energy": 45,
+                    "Protein": 83
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "هات داگ مخصوص",
+                    "product_price": [{ "normal": 100000 }],
+                    "product_image": ["b1.jpg", "b2.jpg", "b3.jpg"],
+                    "product_content": [
+                        "هات داگ",
+                        "قارچ",
+                        "پنیر",
+                        "کاهو",
+                        "خیارشور",
+                        "گوجه"
+                    ],
+                    "Energy": 45,
+                    "Protein": 83
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "چیز برگر",
+                    "product_price": [{ "normal": 110000, "double": 155000 }],
+                    "product_image": ["c1.jpg", "c2.jpg", "c3.jpg"],
+                    "product_content": [
+                        "همبرگر90 درصد",
+                        "پنیر گودا",
+                        "سس مخصوص",
+                        "گوجه"
+                    ],
+                    "Energy": 45,
+                    "Protein": 83
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "رویال برگر",
+                    "product_price": 193000,
+                    "product_image": ["d1.jpg", "d2.jpg", "d3.jpg"],
+                    "product_content": [
+                        "همبرگر 90 درصد",
+                        "ژامبون گوشت",
+                        "قارچ",
+                        "پنیر"
+                    ],
+                    "Energy": 45,
+                    "Protein": 83
+                }
+            ]
+        },
+        {
+            "group_id": 2,
+            "group_title": "پیتزا",
+            "group_image": "images/pizza-7-310x260.png",
+            "group_products": [{
+                "product_id": 5,
+                "product_name": "پیتزا فیله مرغ",
+                "product_price": [{ "mini": 110000, "normal": 145000, "large": 210000 }],
+                "product_image": ["e1.jpg", "e2.jpg", "e3.jpg"],
+                "product_content": [
+                    "فیله مرغ",
+                    "قارچ",
+                    "فلفل دلمه",
+                    "پنیر",
+                    "گوجه",
+                    "ذرت"
+                ],
+                "Energy": 45,
+                "Protein": 83
+            }, {
+                "product_id": 6,
+                "product_name": "پیتزا پنجره ای مخصوص",
+                "product_price": [{ "mini": 125000, "normal": 185000, "large": 230000 }],
+                "product_image": ["f1.jpg", "f2.jpg", "f3.jpg"],
+                "product_content": [
+                    "ژامبون بره",
+                    "قارچ",
+                    "پنیر",
+                    "گوشت چرخ کرده",
+                    "فلفل دلمه"
+                ],
+                "Energy": 45,
+                "Protein": 83
+            }, {
+                "product_id": 7,
+                "product_name": "پیتزا پپرونی",
+                "product_price": [{ "mini": 105000, "normal": 135000, "large": 190000 }],
+                "product_image": ["g1.jpg", "g2.jpg", "g3.jpg"],
+                "product_content": [
+                    "کالباس پپرونی",
+                    "قارچ",
+                    "پنیر",
+                    "فلفل دلمه"
+                ],
+                "Energy": 45,
+                "Protein": 83
+            }]
+        },
+        {
+            "group_id": 3,
+            "group_title": "کباب",
+            "group_image": "images/barbecue-7-310x260.png",
+            "group_products": [{
+                    "product_id": 8,
+                    "product_name": "کوبیده",
+                    "product_price": [{ "single": 45000, "double": 85000 }],
+                    "product_image": ["h1.jpg", "h2.jpg", "h3.jpg"],
+                    "product_content": [
+                        "گوشت چرخ کرده",
+                        "پیاز",
+                        "نمک",
+                        "جوش شیرین"
+                    ],
+                    "Energy": 45,
+                    "Protein": 83
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "برگ",
+                    "product_price": [{ "normal": 130000 }],
+                    "product_image": ["i1.jpg", "i2.jpg", "i3.jpg"],
+                    "product_content": [
+                        "گوشت گوسفندی",
+                        "نمک",
+                        "آبلیمو"
+                    ],
+                    "Energy": 45,
+                    "Protein": 83
+                }
+            ]
+        }
+
+    ]
+}
